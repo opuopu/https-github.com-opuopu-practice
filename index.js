@@ -9,3 +9,6 @@ console.log('hello vai apni kmn');
 console.log('hello vai apni kmn');
 console.log('hello vai apni kmn');
 console.log('hello vai apni kmn');
+
+const vai = 'hello vai';
+console.log(vai);
