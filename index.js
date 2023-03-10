@@ -8,7 +8,5 @@ appDiv.innerHTML = `<h1>JS Starter</h1>`;
 console.log('hello vai apni kmn');
 console.log('hello vai apni kmn');
 console.log('hello vai apni kmn');
-console.log('hello vai apni kmn');
+console.log('hello vai apni kmn'
 
-const vai = 'hello vai';
-console.log(vai);
